@@ -15,6 +15,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Mariano Rajoy*
 
 -------
+< "Trabajar duro es importante, pero hay algo que importa más, creer en ti mismo"
+*Harry Potter*
 
 > I am Locutus of main.
 > Resistance is futile.
